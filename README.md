@@ -23,4 +23,5 @@
 
 # Dimensional model image of the Data warehouse![nyc _model drawio 2-Page-2 drawio](https://github.com/user-attachments/assets/9c161713-0071-41c3-9db8-d61e3568d2fb)
 
-# Data Architecture image of the pipeline ![nyc _model drawio 2-Page-1 drawio](https://github.com/user-attachments/assets/35695c28-229a-4afb-a4cd-d4e29add7ddf)
+# Data Architecture image of the pipeline ![nyc drawio](https://github.com/user-attachments/assets/d540d72e-8b47-44fe-8cc4-cdc7a254e7ba)
+
