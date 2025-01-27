@@ -30,4 +30,10 @@
 - GetMetadata:The GetMetadata activity in Azure Data Factory (ADF) or Synapse is used to retrieve metadata from a dataset or file in your data store. It helps you fetch properties such as file names, file sizes, folder structure, last modified time, or schema information. This activity is especially useful for dynamic pipelines where decisions or further actions depend on file or dataset characteristics.![WhatsApp Image 2025-01-27 at 14 18 19_a353fbcf](https://github.com/user-attachments/assets/195f9d6a-3166-48a4-933a-dda5bf3a8556)
 
 
-ForEach
+ForEach: The ForEach activity in Azure Data Factory (ADF) or Azure Synapse allows you to iterate over a collection of items and execute specific activities for each item in the collection. It is a control flow activity used for building pipelines that dynamically process multiple items, such as files, database records, or parameters.![WhatsApp Image 2025-01-27 at 14 04 02_b31bedb4](https://github.com/user-attachments/assets/a1388e59-05e0-42fb-a8f6-dad24e08b8fa)
+
+
+A stored procedure in Azure is a precompiled set of SQL statements stored in a relational database, such as Azure SQL Database, Azure Synapse Analytics, or SQL Server. It allows you to encapsulate logic for querying, transforming, or manipulating data and execute it as a single unit. Stored procedures are particularly useful for tasks like data validation, transformation, and batch processing.
+In the context of Azure Data Factory (ADF) or Azure Synapse Pipelines, you can call stored procedures as part of your data integration workflows.
+
+Integration runtime:Integration Runtime (IR) in Azure Data Factory (ADF) and Azure Synapse Pipelines is the compute infrastructure used to execute your data integration workflows. It acts as the bridge between the pipeline activities and the data sources, whether they are in the cloud, on-premises, or a combination of both.![WhatsApp Image 2025-01-27 at 14 04 02_db97630d](https://github.com/user-attachments/assets/5ee22bea-ecb2-4ba1-a49c-9c78275bcbfd)
