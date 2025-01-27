@@ -25,3 +25,9 @@
 
 # Data Architecture image of the pipeline ![nyc drawio](https://github.com/user-attachments/assets/d540d72e-8b47-44fe-8cc4-cdc7a254e7ba)
 
+# captures within Azure portal 
+
+- GetMetadata:The GetMetadata activity in Azure Data Factory (ADF) or Synapse is used to retrieve metadata from a dataset or file in your data store. It helps you fetch properties such as file names, file sizes, folder structure, last modified time, or schema information. This activity is especially useful for dynamic pipelines where decisions or further actions depend on file or dataset characteristics.![WhatsApp Image 2025-01-27 at 14 18 19_a353fbcf](https://github.com/user-attachments/assets/195f9d6a-3166-48a4-933a-dda5bf3a8556)
+
+
+ForEach
