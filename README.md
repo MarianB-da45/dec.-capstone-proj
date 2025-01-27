@@ -36,4 +36,10 @@ ForEach: The ForEach activity in Azure Data Factory (ADF) or Azure Synapse allow
 A stored procedure in Azure is a precompiled set of SQL statements stored in a relational database, such as Azure SQL Database, Azure Synapse Analytics, or SQL Server. It allows you to encapsulate logic for querying, transforming, or manipulating data and execute it as a single unit. Stored procedures are particularly useful for tasks like data validation, transformation, and batch processing.
 In the context of Azure Data Factory (ADF) or Azure Synapse Pipelines, you can call stored procedures as part of your data integration workflows.
 
-Integration runtime:Integration Runtime (IR) in Azure Data Factory (ADF) and Azure Synapse Pipelines is the compute infrastructure used to execute your data integration workflows. It acts as the bridge between the pipeline activities and the data sources, whether they are in the cloud, on-premises, or a combination of both.![WhatsApp Image 2025-01-27 at 14 04 02_db97630d](https://github.com/user-attachments/assets/5ee22bea-ecb2-4ba1-a49c-9c78275bcbfd)
+
+Integration runtime:Integration Runtime (IR) in Azure Data Factory (ADF) and Azure Synapse Pipelines is the compute infrastructure used to execute your data integration workflows. It acts as the bridge between the pipeline activities and the data sources, whether they are in the cloud, on-premises, or a combination of both.![WhatsApp Image 2025-01-24 at 01 14 04_d513486f](https://github.com/user-attachments/assets/1cb5ed3b-b04b-4577-84d7-83eea4fe559c)
+
+
+![WhatsApp Image 2025-01-27 at 14 04 02_db97630d](https://github.com/user-attachments/assets/5ee22bea-ecb2-4ba1-a49c-9c78275bcbfd)
+
+
